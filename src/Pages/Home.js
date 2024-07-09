@@ -34,7 +34,7 @@ const Home = () => {
         <div className='flex-1 mt-56'>
           <div>
             <div className='flex justify-between px-4 mt-10'>
-              <p className='text-4xl font-bold font-marcellus'>Select </p>
+              <p className='text-4xl font-bold font-marcellus'>Select Your Hotels</p>
               <Link to='/all-homes'>
               <PrimaryButton
                 type="submit"
